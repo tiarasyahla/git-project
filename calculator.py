@@ -8,6 +8,8 @@ bagi = b / a
 kuadrat_a = a ** 2
 kuadrat_b = b ** 2
 
+print("Nilai a:", a)
+print("Nilai b:", b)
 print("Hasil tambah:", tambah)
 print("Hasil kurang:", kurang)
 print("Hasil kali:", kali)
