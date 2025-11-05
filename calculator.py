@@ -5,8 +5,8 @@ tambah = a + b
 kurang = b - a
 kali = a * b
 bagi = b / a
-kuadrat_a = a ** 2
-kuadrat_b = b ** 2
+kuadrat_a = a ** 3
+kuadrat_b = b ** 3
 
 print("Nilai a:", a)
 print("Nilai b:", b)
