@@ -7,6 +7,7 @@ kali = a * b
 bagi = b / a
 kuadrat_a = a ** 3
 kuadrat_b = b ** 3
+modulus = b % a
 
 print("Nilai a:", a)
 print("Nilai b:", b)
@@ -16,3 +17,4 @@ print("Hasil kali:", kali)
 print("Hasil bagi:", bagi)
 print("Kuadrat a:", kuadrat_a)
 print("Kuadrat b:", kuadrat_b)
+print("Modulus b % a:", modulus)
