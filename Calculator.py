@@ -1,8 +1,4 @@
 print ("Kalkulator perkalian")
 a = input("Masukkan angka pertama: ")
 b = input("Masukkan angka kedua: ")
-print (a*b)
-print ("Kalkulator pembagian")
-a = input("Masukkan angka pertama: ")
-b = input("Masukkan angka kedua: ")
 print (a/b)
